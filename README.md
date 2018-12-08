@@ -1,0 +1,2 @@
+# puppet
+stand-alone architecture
